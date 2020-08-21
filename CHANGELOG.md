@@ -1,5 +1,5 @@
 ## 20200821
-*fork
+* fork
 
 ## 20200819
 * 移除 luci-app-clash
